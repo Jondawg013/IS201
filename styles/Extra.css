@@ -1,0 +1,41 @@
+#top{
+    color: rgb(152, 119, 0);
+}
+#side{
+    text-decoration: underline;
+    color: rgb(152, 119, 0);
+}
+.emphasizedText{
+    font-style: bold;
+    text-decoration: wavy;
+    font-size: 30px;
+}
+#down{
+    font-style: italic;
+    color: black;
+    font-size: 18px;
+    font-size: bold;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid black;
+    margin:20px;
+    text-align: center;
+}
+.body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid black;
+    margin:20px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+}
